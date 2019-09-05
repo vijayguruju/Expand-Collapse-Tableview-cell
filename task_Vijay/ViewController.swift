@@ -13,7 +13,7 @@ struct cellData {
     var title = String()
     var sectionData = [String]()
 }
-//
+
 class ViewController: UIViewController,UITableViewDelegate,UITableViewDataSource {
   
     
