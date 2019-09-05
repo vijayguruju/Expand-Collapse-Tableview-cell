@@ -42,7 +42,7 @@
 		CAB1DD4F22CE6453001E96D6 = {
 			isa = PBXGroup;
 			children = (
-				CAB1DD5A22CE6453001E96D6 /* task_Vijay */,
+				CAB1DD5A22CE6453001E96D6 /* Expand - Collapse */,
 				CAB1DD5922CE6453001E96D6 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -55,7 +55,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		CAB1DD5A22CE6453001E96D6 /* task_Vijay */ = {
+		CAB1DD5A22CE6453001E96D6 /* Expand - Collapse */ = {
 			isa = PBXGroup;
 			children = (
 				CAB1DD5B22CE6453001E96D6 /* AppDelegate.swift */,
@@ -67,7 +67,7 @@
 				CAB1DD6D22CE64D0001E96D6 /* AllMenu.json */,
 				CAB1DD6722CE6455001E96D6 /* Info.plist */,
 			);
-			path = task_Vijay;
+			path = "Expand - Collapse";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -296,7 +296,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "vijay.task-Vijay";
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.expandcollapse;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -313,7 +313,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "vijay.task-Vijay";
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.expandcollapse;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
