@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		CAB1DD5822CE6453001E96D6 /* task_Vijay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = task_Vijay.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CAB1DD5822CE6453001E96D6 /* Expand_Collapse.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Expand_Collapse.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CAB1DD5B22CE6453001E96D6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CAB1DD5D22CE6453001E96D6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		CAB1DD6022CE6453001E96D6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 		CAB1DD5922CE6453001E96D6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CAB1DD5822CE6453001E96D6 /* task_Vijay.app */,
+				CAB1DD5822CE6453001E96D6 /* Expand_Collapse.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -73,9 +73,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		CAB1DD5722CE6453001E96D6 /* task_Vijay */ = {
+		CAB1DD5722CE6453001E96D6 /* Expand_Collapse */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CAB1DD6A22CE6455001E96D6 /* Build configuration list for PBXNativeTarget "task_Vijay" */;
+			buildConfigurationList = CAB1DD6A22CE6455001E96D6 /* Build configuration list for PBXNativeTarget "Expand_Collapse" */;
 			buildPhases = (
 				CAB1DD5422CE6453001E96D6 /* Sources */,
 				CAB1DD5522CE6453001E96D6 /* Frameworks */,
@@ -85,9 +85,9 @@
 			);
 			dependencies = (
 			);
-			name = task_Vijay;
+			name = Expand_Collapse;
 			productName = task_Vijay;
-			productReference = CAB1DD5822CE6453001E96D6 /* task_Vijay.app */;
+			productReference = CAB1DD5822CE6453001E96D6 /* Expand_Collapse.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -105,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = CAB1DD5322CE6453001E96D6 /* Build configuration list for PBXProject "task_Vijay" */;
+			buildConfigurationList = CAB1DD5322CE6453001E96D6 /* Build configuration list for PBXProject "Expand_Collapse" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -118,7 +118,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				CAB1DD5722CE6453001E96D6 /* task_Vijay */,
+				CAB1DD5722CE6453001E96D6 /* Expand_Collapse */,
 			);
 		};
 /* End PBXProject section */
@@ -291,7 +291,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = task_Vijay/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/Expand - Collapse/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -308,7 +308,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = task_Vijay/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/Expand - Collapse/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -323,7 +323,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		CAB1DD5322CE6453001E96D6 /* Build configuration list for PBXProject "task_Vijay" */ = {
+		CAB1DD5322CE6453001E96D6 /* Build configuration list for PBXProject "Expand_Collapse" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CAB1DD6822CE6455001E96D6 /* Debug */,
@@ -332,7 +332,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CAB1DD6A22CE6455001E96D6 /* Build configuration list for PBXNativeTarget "task_Vijay" */ = {
+		CAB1DD6A22CE6455001E96D6 /* Build configuration list for PBXNativeTarget "Expand_Collapse" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CAB1DD6B22CE6455001E96D6 /* Debug */,
